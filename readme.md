@@ -46,4 +46,3 @@ tesis-project/
 
 - [SaBERT-Spanish-Sentiment-Analysis](https://huggingface.co/VerificadoProfesional/SaBERT-Spanish-Sentiment-Analysis)
 - [Meta Graph API Documentation](https://developers.facebook.com/docs/graph-api)
-- [Documentación completa del proyecto](docs/)
