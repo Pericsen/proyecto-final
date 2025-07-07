@@ -19,7 +19,7 @@ Sistema automatizado de detección y clasificación de reclamos ciudadanos utili
 ## Estructura del Proyecto
 
 ```
-tesis-project/
+proyecto-final/
 ├── data/
 │   ├── models/                 # Modelos entrenados
 │   │   ├── classifier/         # Modelo clasificador BERT
